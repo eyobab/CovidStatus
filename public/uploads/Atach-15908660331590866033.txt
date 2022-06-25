@@ -1,0 +1,8 @@
+
+<?php dd($message); ?>
+
+
+Introduction to Naomi(9) and Nathan(11)  Eyob.  
+Our kids did their best during this stay home season. 
+Here is their message to their friends and fellows. 
+Enjoy!
