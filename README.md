@@ -1,2 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<h1> Employee Covid Status Tracker </h1>
 
+<h3> Used by Orginazations to track daily status of their employees where department heads get reports and summary data </h3>
+...
